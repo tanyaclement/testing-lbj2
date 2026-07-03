@@ -1,5 +1,2316 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 5,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Democracy, a podcast that explores the interracial, intergenerational, and intersectional unheard voices living in the world's most influential democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        }
+      ],
+      "uuid": "22a9a0e0-51cf-4433-a0e4-e989e90800b9"
+    },
+    {
+      "start_time": 20,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to our new episode of This is Democracy, our first new episode of 2020 of the new decade. And we are so fortunate this morning, we are discussing Congress and war powers, an issue that's been in the news really for 240 years in American history, and an issue that's certainly at the center of American attention today. And we have with us, probably the person who's studying these issues most deeply as a historian, Clay Katsky. Clay, welcome."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        }
+      ],
+      "uuid": "cf532651-dbd3-4bdf-8056-3b2b492b662a"
+    },
+    {
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. Glad to be here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        }
+      ],
+      "uuid": "5e70de5d-7a90-435d-8e89-c513b655002e"
+    },
+    {
+      "start_time": 54,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nice to have you on with us. Clay is finishing his PhD here at the University of Texas, and he's writing his dissertation on Congress's role in managing and dealing with presidential war powers, particularly in the 1970s and 80s. And so we're so fortunate to have him here. He knows more about this subject than anyone else. He's also a fantastic teacher. And so we're delighted to have you here, Clay. Before we turn to our discussion with our expert, with Clay, we have our scene-setting poem. I haven't had a chance to say that in a little while, our scene-setting poem with Zachary Suri. What's the title of your poem today?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        }
+      ],
+      "uuid": "83008f28-a9e2-46b2-a618-08ba206ce3b3"
+    },
+    {
+      "start_time": 92,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An adaptation of Allen Ginsberg's A Supermarket in California for a Nation on the Brink of War."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "576b93f2-d111-4223-b10d-801e9162dbd4"
+    },
+    {
+      "start_time": 98,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My gosh. So you've taken an Allen Ginsberg, who I know is one of your favorite poets, and you have adapted one of his poems for our discussion today. Is that correct?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "8ed76fbc-863a-45c8-b43b-cbeea1bd56e4"
+    },
+    {
+      "start_time": 106,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's correct."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "95a295cc-c838-4424-9ff9-b1a37f0b76f9"
+    },
+    {
+      "start_time": 107,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. So we have the merger of Zachary Suri and Allen Ginsberg. Let's hear it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "476e06aa-952f-4e28-92a7-4a0becd22f47"
+    },
+    {
+      "start_time": 111,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What thoughts I find of you these days, Frank Church, for we huddled in the bedrooms listening to our radios with a headache, self-conscious, looking at the end of the world. In our nightmarish haze and shopping for semblances, we all crawled into the neon fruit supermarket with you, dreaming of the broken ghost. What nuclear bombs and what assassinations, whole battalions shopping at night, aisles full of shell-shocked soldiers, ghostly Donald Rumsfeld and the avocados, Reagan and the tomatoes, and you, Lyndon Johnson, what were you doing down by the hot dog buns? I saw you, Uncle Sam, disheveled, lonely old optimist, fumbling with the paper towel rolls and eyeing the peanut butter with a blank stare. I heard you asking questions of each, whom did I really kill today? What price for world peace? Are you James Madison? I wandered in and out of the brilliant star-spangled stacks of cans following you, and followed in my imagination by the ghost of Montesquieu and Lafayette."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "9ebd109e-f0d8-4f08-8367-de12466172eb"
+    },
+    {
+      "start_time": 169,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We strolled down the open corridors together in our solitary remembrance, tasting empire, possessing every forbidden delicacy, and never passing the eye of the cashier's congressional oversight. Where are we going, you lost Democrat? The doors close in an hour. Which way do your reluctant guns point tonight? Maybe in some future time I will touch the founding document in my pocket and dream of our odyssey in the supermarket and feel absurd. Will we walk through a war among the distant highways and software engineers, the trees add shame to shame, lights out in the houses, awaiting air raid signals that still seem so inevitable? Will we stroll dreaming of the lost democracy we left in a pickle jar behind the old folks' home back to our silent cottage, maybe Lincoln's mausoleum? Ah, dear father, tip your hat, lonely old vagrant, you can lose the false individualism with me. For what America did we truly have when we handed Sharon the coin and we got out on a sinking bank and stood watching the boat disappear on the blackwaters of the Potomac?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "82ea7826-af92-4884-98ee-953029256446"
+    },
+    {
+      "start_time": 231,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow. Nice. I love the imagery there, Zachary. So why did you choose this Ginsberg poem and why did you adapt it in the way you did?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "4ddd8645-f12a-4a6c-9fa5-216423776d14"
+    },
+    {
+      "start_time": 243,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, this poem, Supermarket in California, which was written in 1955, in it Ginsberg chases Walt Whitman through a supermarket and he's really critiquing how materialism and commercialism has undermined democracy in his view. And I am critiquing the ways that imperialism and war has undermined democracy in the U.S. today. And I think though they seem very far apart, I think both moments are very similar in the sort of aching for a more perfect union."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "053459ee-d1ea-419a-b617-caa783d9cd95"
+    },
+    {
+      "start_time": 278,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that's a perfect spot to turn to Clay. This is something the founders thought about, right? About the question of how you can maintain a democracy and still fight wars when necessary for the national defense. This is something the founders thought about, right? About the question of how you can maintain a democracy and still fight wars when necessary for the national defense. Yes. How did the framers think about this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "070827e6-a057-4379-9397-c9fa913c9deb"
+    },
+    {
+      "start_time": 293,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, in terms of what the framers were looking for in war making, they were looking for somewhat of a shared power between the president and Congress. And in fact, this was a major breakthrough at the time. In order to share power with the presidency was a huge break from when monarchs controlled all aspects of war.The framers didn't want to give the president authority to go to war unilaterally."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "657f57fe-2564-46ca-b2ed-b73ccb09f874"
+    },
+    {
+      "start_time": 324,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. And so they gave Congress particular powers. What are the constitutional powers that Congress has?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "1c613348-4805-40a1-811b-a73e10e4962c"
+    },
+    {
+      "start_time": 330,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the main power that Congress has, granted by Article 1, Section 8, Clause 11, is that Congress shall have the power to declare war. And we've seen over time this sort of power can be useful, but has eroded. The declared wars include War of 1812, Mexican-American War, Spanish-American War, World War I and World War II. But Korea starts this trend of undeclared wars. So the power to declare war has somewhat diminished over time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "52dd02c3-7b55-4d92-a3ba-f2e2e85e1653"
+    },
+    {
+      "start_time": 362,
+      "end_time": 394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are other powers, though, important powers that Congress has. The rest of that clause talks about the to raise and support armies. It's interesting. It says to raise and support armies, but it also says, but no appropriation of money to that use shall be for longer period than two years. So already Congress, in the Constitution, you have Congress trying to limit, or you have the framers trying to limit, the president's ability to have long, drawn-out conflicts. Even limit Congress's ability at that point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "70c53dee-16e9-4a26-b931-76faab1b1d68"
+    },
+    {
+      "start_time": 394,
+      "end_time": 397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. Forcing a vote at least every two years on the money for the conflict."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "e1ef996e-5fab-4a36-8d4a-1380eda29732"
+    },
+    {
+      "start_time": 397,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. To revisit the issue, and so that we're not just stuck in endless wars."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "f2a6da0e-b78c-4ac6-8647-4ce1857c2eaf"
+    },
+    {
+      "start_time": 401,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "0ca7496d-9957-441b-917e-62a43df02248"
+    },
+    {
+      "start_time": 402,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The third important power in that section is to provide and maintain a Navy, which obviously has been extended to the Air Force, and maybe in the future to a Space Force, or something like that. And then the final important power in that clause is to make rules for government and regulation of the land and naval forces. So to some extent, Congress does have control over the naval and land forces, making rules, making laws governing their conduct and such. The final thing, also, that's not exactly related, but is a part of the Congress's war powers in the Constitution, is the Senate's ability to approve and reject international agreements."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "c080fdbe-6d15-4e7e-ae61-8c7a79916899"
+    },
+    {
+      "start_time": 446,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. Right. Right. And it's actually a two-thirds vote, isn't it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "ee28fad5-6e63-49df-be43-daa17bb16e61"
+    },
+    {
+      "start_time": 449,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. So this is a high bar. And this has caused issues that we could even see recently, something like the Iran deal, which wasn't given to Congress because the bar couldn't be met. So here's an instance of the President going around Congress because Congress wasn't going to be able to give the President what he needed. And that's an example of the power that the President has over Congress. And I think it's fair to say, right, that from the beginning, from Washington's time, there was already tension."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "0c747498-52b8-4320-b602-8cf934ff8858"
+    },
+    {
+      "start_time": 484,
+      "end_time": 484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "68f2773c-5a06-4f97-af74-baea6294b843"
+    },
+    {
+      "start_time": 484,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That Presidents have a tendency to want to have more of a free hand, particularly when it comes to military affairs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "931c9777-28a2-490e-a853-698a1d39e3c0"
+    },
+    {
+      "start_time": 490,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How has that story evolved over time?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "9ea45c60-b775-4b33-9fb9-a197651b6512"
+    },
+    {
+      "start_time": 492,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, really what you see is you see Presidents slowly taking liberties over time with Congress. As you mentioned, starting with Washington, there are issues with England and there's pressure to go to war. And Washington is able to sway Congress in his direction not to go to war by sending diplomatic people out to talk to diplomats in England. So he's sort of so Congress at that point is pushing for war and he's sort of pulling them back. He's showing his his teeth. He's showing that he can do this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "baeace0f-7d22-4652-afe3-e6ec9e3801d9"
+    },
+    {
+      "start_time": 525,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, the House requests documents related to these negotiations and he refuses based on executive privilege, which is the first instance of executive privilege being used. Going forward, you know, you have Thomas Jefferson imposing embargo acts and doing things that Congress was not completely on board with, but was within the president's power. The I'd say the first real instance of the president overstepping his bounds in the war making really comes during the Mexican-American war with with James Polk. Polk, there is not enough support in Congress for war and Polk sends troops down to the border of Mexico intending to incite a war and intending for Congress to jump on board with that war."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "c1276a59-7d36-4d3c-ae77-a967eab0fdbd"
+    },
+    {
+      "start_time": 579,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the things that we see over and over again is that it's very difficult for Congress to pull back once hostilities have been engaged. And, you know, we know that it's very difficult. I mean, Congress has control of appropriations, but it's very difficult to cut off funds for troops in the field. So and this continues to unfold as each war comes, as the country becomes more involved with the outside world, you know, following the Spanish-American war and territorial conquest. Our butting up against outside powers means that the president is gaining power in in this sort of arena."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "ea464eff-ee52-476d-afd6-37bd0d6a7e82"
+    },
+    {
+      "start_time": 619,
+      "end_time": 654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The president has what some would call an agenda setting power, right? He can send American forces. He can do something and then, in a sense, almost threaten Congress that if they don't support that, that they'll be abandoning American forces overseas. Right. And so he really gets the first move in a sense. Why have presidents been able to do this more effectively and why, as you already said earlier on, Clay, have Congress's day to day powers over the military and over military and war decisions, why have they diminished so precipitously in the 20th century and early 21st century?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "c3d412fc-baf8-4455-99c8-5b64f7362226"
+    },
+    {
+      "start_time": 655,
+      "end_time": 713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, for one, you know, you look at the threat of national security and the Cold War coming from the Cold War. The threat of national security has been used by the executive to push the idea that only the president can protect the nation. There is some concern that a body like Congress that has endless debates and an endless number of ideas cannot come together quickly enough in order to protect the country in a proper way. A lot of people would say that too many voices are being heard and that you need a single person to make a decision. That said, in the 20th century, Congress has not necessarily used all of its powers to its best advantage. So I'd say one of the things that is not directly talked about in the Constitution, but is a constitutional power that Congress has that relates to war, is their investigatory powers and their powers of oversight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        }
+      ],
+      "uuid": "329461cf-e7f6-4b17-b6ce-595ca78bfc64"
+    },
+    {
+      "start_time": 714,
+      "end_time": 718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, yes. And so how do those powers work? What power does that give Congress?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "562dbd59-45ec-41df-9b41-ba39bd34c9c0"
+    },
+    {
+      "start_time": 718,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it says in the Constitution that all legislative powers herein granted shall be used by the Congress of the United States. And that's basically a general term that where the framers intended Congress to seek out information when crafting or reviewing legislation. George Mason himself said members are not only legislators, but they possess inquisitorial powers. They must meet frequently to inspect the conduct of public office. So over and their oversight powers include subpoena and contempt powers. And those, I think, are the major powers that haven't been used enough in the 20th century."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "2ff946ed-76e9-4ef9-a4ce-ae17996a5838"
+    },
+    {
+      "start_time": 753,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And when you think about the times that Congress has been most effective inserting itself into foreign policy in the 1920s, in the 1970s, somewhat in the 1980s, it's when Congress has embarked on ambitious investigations into the president's making of war."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "176d7100-3400-4f72-b1ca-f36905a1fd79"
+    },
+    {
+      "start_time": 769,
+      "end_time": 809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. And oftentimes, until recently, at least, historians and journalists would criticize those moments. I mean, one of the critiques of the 1920s is of American isolationism and in particular of Congress's excessive efforts to limit presidential power after World War One with the Nye Committee, for example, which alleged that war profiteers were driving American policy. Even future President Harry Truman was involved with these hearings. You have a different view, right? On what? You have a different view in the sense that you don't see these hearings as as undermining the Constitution and undermining American power. You see them as actually crucial, correct?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "bd704f7a-9bb6-4704-aabb-641baec2d4ac"
+    },
+    {
+      "start_time": 809,
+      "end_time": 837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely crucial. And, you know, even founders who did believe in a strong executive like Hamilton still believed that it would be utterly improper and unsafe to give the president full control over foreign policy. So the idea is that the founders wanted to make it difficult to enter war. They wanted to make they were expecting congressional debate to restrain the country from going to war."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "2676839d-bb1d-476b-953e-eaedeee2f7ff"
+    },
+    {
+      "start_time": 838,
+      "end_time": 866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why have they not enforced that more than why? Why since, as you said, since World War Two, have we continually been at war? And why has Congress either done nothing or, as in the current situation, authorized military force in 2001, 2002? That's the current legislation that's used by many presidents through this current president. Why have they allowed that to go on? Why have they allowed presidents to stretch the legislation or operate without legislation at all?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "01a798a8-9987-4340-acb9-44bec068ac63"
+    },
+    {
+      "start_time": 866,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'd say that the why is, you know, somewhat of a psychological factor of the threat of nuclear war that comes, you know, directly after the end with the Cold War, directly after World War Two. The country is afraid. People are afraid that of possible annihilation of possible World War III. There is a sense that there are, as I said before, too many voices in Congress that that you need one single strong person to push forward. You know, the president is tasked with defending the nation. And one thing that really comes clear in the atomic age is that the nation needs defending."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        }
+      ],
+      "uuid": "229bb605-7e1a-4b0f-b14c-17eae30cca4e"
+    },
+    {
+      "start_time": 902,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before that, you know, an attack on Pearl Harbor is the first major attack in over 100 years. And the idea that the United States has once again been vulnerable, that this fortress America no longer exists, the seas are no longer protecting us because these missiles can be coming. It really pushed Congress and the American people into giving the president a lot of leeway in terms of war making powers, in terms of foreign policy and in what I study in terms of intelligence gathering and intelligence work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "8b8c3609-d7c5-429d-b3cb-b87522eae9cc"
+    },
+    {
+      "start_time": 937,
+      "end_time": 969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the Congress, even liberal members of Congress, were very, very were very, very easy or quick to give the president green lights on all sorts of covert operations and on assassinations and things like that. It was to some extent you see Congress putting their heads in the stand and allowing the president to defend the nation in whatever in whatever way is necessary. So in part, it's that members of Congress don't want political responsibility for yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "f310e73d-e63c-418a-b814-a56ee7dcd507"
+    },
+    {
+      "start_time": 970,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, you know, one thing is that, you know, Congress, they have to especially in the House, you know, they're constantly running for reelection and Congress itself is constantly running for reelection. The president only has to get reelected once. Congress is hoping to get reelected again and again and again. And so for them, their political livelihoods are at stake. And if the country, if a war is popular in the country and it's not and it's popular in your district, chances are as a as a congressperson, you're going to support that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "b56a594d-d0e9-4e2c-82b5-2aba352f4cba"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. Right. Zachary, you had a question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "58941bbd-0658-4d8b-a15c-aac60f97e408"
+    },
+    {
+      "start_time": 1000,
+      "end_time": 1010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. How do we get to the current legislation that we're supposed to be operating under the War Powers Act of 1973? How do we get to that? And how does that how is that contributed and played out in the past few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "fa46a096-4127-4fbc-a7cc-30fe2cfb54fb"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Really good question. I mean, so, you know, War Powers Act comes at an amazing time in American history because this act probably could never have been passed at any other time other than in 1973. Nixon is completely on his heels after Watergate. People are still fuming over the Vietnam War. Nixon, Nixon actually. So and the thing that's most remarkable is that Nixon vetoes the the amendment and then it's the the act and then it's overwritten. So from the beginning, this is a major departure that that the president is against going forward. Some presidents see it as unconstitutional and completely ignore it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vietnam War"
+        }
+      ],
+      "uuid": "41079352-fb6b-4ff4-870a-96500e49722c"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So far, there's been little to no impact on the decisions of presidents due to the War Powers Act. It hasn't really restrained them from doing anything. Some. And as I said, some administrations straight up refused to recognize its constitutionality. But in 1975, Ford did submit a report to Congress as a result of his order to send troops to retake the Miagas, an operation to rescue some American hostages. He the troops were recalled within the 60 days, so it didn't actually have an effect. But he did report to Congress if the troops had remained overseas for 60 days, it would have triggered the War Powers Act."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "be609c91-e6b2-4654-a99f-78bebb34ceb6"
+    },
+    {
+      "start_time": 1089,
+      "end_time": 1103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1979, Carter failed to notify Congress of the operation to rescue the hostages. That's less about the War Powers Act and more about clandestine operation reporting. But it is sort of similar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "bab5fe42-8b33-4bc1-9567-13dda21fe176"
+    },
+    {
+      "start_time": 1103,
+      "end_time": 1138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1981, Reagan sends Marines to Lebanon when he reported this to Congress. And and after the Marines were attacked, Congress does authorize the Marines to stay in country for 18 months. So that's really the first example of a president state adhering to the War Powers Act or at least stating that reporting to Congress and then accepting Congress's proposal for how to deal with the troops. At the time, Reagan knew that 18 months was a really long time and they probably weren't going to be there for that long anyway. He pulled them out in much less time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "d58ea89f-2af2-4300-9e9c-12149e704b8d"
+    },
+    {
+      "start_time": 1138,
+      "end_time": 1143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I remember, he did report to Congress, but he said he didn't believe he had a constitutional duty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "5b58dcd6-bec8-4e07-95c4-e09b728e50c9"
+    },
+    {
+      "start_time": 1144,
+      "end_time": 1198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that would his administration and Bush and Cheney, who gives a dissent to the Iran Contra report, would say that all any effort to infringe on the president's war making powers would be unconstitutional. In 1990, Bush agreed. Bush said that he didn't need congressional authorization to carry out U.N. resolutions in Iraq, but he did report to Congress and ask for congressional support for operations in the Persian Gulf. Clinton authorized airstrikes in various places pursuant to U.N. Security Council resolutions without regards to the War Powers Act, which some in Congress objected to. So the history of the War Powers Act is pretty much that it has done nothing so far. I think that at the time there was a concern."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "c5f64b54-9acf-4fa1-abc9-8a8d17b45c64"
+    },
+    {
+      "start_time": 1198,
+      "end_time": 1209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The War Powers Act was almost written to prevent Vietnam from continuing or to prevent a continuation of what was going on in Vietnam, of leaving troops overseas for an extended time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "893c6ebc-0416-40c9-b106-b4f859e5df85"
+    },
+    {
+      "start_time": 1209,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So how have presidents reconciled clandestine operations with the sort of constitutional balance of powers between Congress and the executive? Because like particularly in the Reagan years, we see this giant growth of clandestine operations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "91004160-ddc7-4b78-bc91-2d57b0413e61"
+    },
+    {
+      "start_time": 1223,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "d6f175ce-68d1-4c71-af10-918731795d78"
+    },
+    {
+      "start_time": 1224,
+      "end_time": 1226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So and this is your book, Clay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "3e323a1e-772d-4729-bf9c-f0e884d4fdd3"
+    },
+    {
+      "start_time": 1226,
+      "end_time": 1260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. So the so presidents don't like the idea of Congress being involved in clandestine operations at all, starting with, you know, in the early days of the CIA, the way that Congress and the president would converse on these things would be on intelligence operations, covert operations would be done in very informal meetings, you know, in the back offices of these guys with smoke and smoke filled rooms and backs offices, you know, just lunch meetings, things like that. It wasn't until the over drinks, over drinks, mostly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "eed29d14-89b3-4bc0-80d2-11eeb1a1c131"
+    },
+    {
+      "start_time": 1261,
+      "end_time": 1278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It wasn't until the 1970s that Congress really struck out and tried to solidify a way that it would be included in the intelligence process. And so what that meant was the creation of the intelligence committees that you see in the news now, these days, the House Permanent Select Committee on Intelligence and the committee that Adam Schiff chairs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "c4cfedab-b879-4b7a-93c4-a1475ffe6c04"
+    },
+    {
+      "start_time": 1278,
+      "end_time": 1280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the committee that Adam Schiff chairs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "e083a8d0-22a1-4978-b2b7-6649ec289910"
+    },
+    {
+      "start_time": 1280,
+      "end_time": 1299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The yes, that Adam Schiff shares in the counterpart in the Senate, the Senate Select Committee on Intelligence created in the 1970s as a way to check up on presidents who, as I said, did not want to share intelligence with Congress and who did not want Congress involved in that sort of decision making process."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "5633655a-55a2-4c23-a584-8fb4a38c767e"
+    },
+    {
+      "start_time": 1300,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main way that Congress is brought into these into these decisions is comes from the reporting requirements that says before any covert action is carried out, the president must sign a document called a finding that says that the operation is in furtherance of the national security. And this document before the operation takes place needs to be given to the intelligence committees. And the intelligence committees have no veto power over these over this. The president is basically notifying them that he's going to do something."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "d1579dc9-61d2-4625-8598-32b414c7ed3e"
+    },
+    {
+      "start_time": 1334,
+      "end_time": 1361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But what it does is it gives the chance for an exchange of ideas that that the committee will hold hearings, closed doors, hearings over this, get the insights of their members and, you know, send reports back to the president on what they think of this. You know, if the president says that he's going to, you know, take out a general of another country and and Congress says, you know, we're going to be up in arms if you do this, maybe the president then thinks twice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "e60b4cbe-18df-41cc-bca4-41536d662436"
+    },
+    {
+      "start_time": 1361,
+      "end_time": 1392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So you said, Clay, and I think the consensus among historians would agree that the War Powers Act of 1973 did not really limit presidential war making. Have these reforms of the 1970s, the reforms that include the creation of House and Senate committees, the findings requirement, the executive order that's signed after pressure from Congress to prohibit assassinations, signed by Gerald Ford, I believe. Have these efforts by Congress to limit or at least create consultation for covert activities? Have they worked?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "b5ac4697-df13-420e-89bc-441de2a8d03d"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's hard to say definitively, but I think that anecdotally, when you look at the years before these agreements were made in the subsequent years after that, they did have a big impact. You know, the the number of clandestine operations actually lowers in as the years go after the 1970s. There's less efforts to overthrow of other governments through military organized coups. There for a while, there's no assassinations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "ec872128-50ab-4640-8a96-a8313d3b6284"
+    },
+    {
+      "start_time": 1426,
+      "end_time": 1447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, you know, these things change a little bit, as Zach mentioned, in the 1980s with with the Reagan who actually weakens the executive order for against assassinations in order to carry out strikes in Libya against the palace, which are not technically assassinations against Gaddafi, but could definitely be seen as such."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "18bea9af-6e88-4ecc-8498-e3f4c711a802"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So those provisions on assassinations get weakened in the 1980s. And today, those those provisions against assassinations have been completely muddied by drone warfare and drone strikes. The taking the strikes against terrorist leaders, strikes against specific individuals who are seen as propaganda masters, these sort of things seem somewhat to follow fall under the category of assassination."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "a3651d4a-9c1a-4ea3-8ced-1105f1d61e00"
+    },
+    {
+      "start_time": 1478,
+      "end_time": 1486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. And certainly a a sovereign leader of Iran, someone who's someone who's responsible for the military in Iran."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "5d8f6486-0a3f-47bc-84ba-6743531cca4d"
+    },
+    {
+      "start_time": 1486,
+      "end_time": 1505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I mean, a sovereign leader. But I think that in this case, you know, someone with a high position in the government carrying out Iranian foreign policy and leading their military. That's what this is.This isn't a terrorist group. This is a legitimately recognized country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "61293ed1-ba75-4d58-a3a5-2eaed640ddd7"
+    },
+    {
+      "start_time": 1506,
+      "end_time": 1525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it seems to me that that this rises more to a level of an assassination than than the taking out of the terrorist leaders, which I mean, and think about it in American terms. You know, one of the arguments that they're making is that, you know, he was a terrorist because he worked with these terrorist groups, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "83982f3e-331c-466c-9475-e18c01360081"
+    },
+    {
+      "start_time": 1525,
+      "end_time": 1538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But what if it was on the flip side? What if there is a an American working with pro-democracy groups in a communist country and that person is taken out? Is that not assassination?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "eeac9207-7670-49b9-9b7a-c2f6362be35b"
+    },
+    {
+      "start_time": 1538,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, back to your discussion of Ronald Reagan, one of the things Reagan did that many people praise him for was support the Mujahideen against the Soviet military in Afghanistan. The Soviets called the Mujahideen a terrorist organization. We certainly didn't believe that justified their assassinating our president.  The Soviets called the Mujahideen a terrorist organization. We certainly didn't believe that justified their assassinating our president. And thankfully, they didn't. Right. So your point is very well taken to simply say that a sovereign leader is working with people that we don't think is legitimate, doesn't justify assassinations, at least under the 1975 order."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "8c5fdc86-f5bd-4c00-b14b-fa4a012230c9"
+    },
+    {
+      "start_time": 1568,
+      "end_time": 1607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then, you know, when it comes to the reporting requirements, the president's required to tell Congress about covert actions beforehand. And this was in the 1980s what sparked the Iran-Contra that not only did the president not notify Congress about the covert actions, but Congress had already passed laws against these sort of covert actions. And the Boland amendments were completely violated. And so here you see an executive that doesn't really believe in being restrained by Congress, completely bulldozing over Congress and, you know, isn't in the end held very accountable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "ea3608c7-5595-40d3-8e46-5883a8029ca7"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think what your scholarship, Clay, and this really thoughtful analysis you've given us shows is that there's an inherent tension between Congress and the president. And perhaps the founders wanted that. Legal scholars call it an invitation to struggle. An invitation to struggle. And maybe there's something productive about that, if that's the case."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "a4bd2b1e-01be-441e-9592-6d1c9cbcf512"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And here's where we turn to the sort of positive looking forward part of what's so crucial to our discussions each week here on This is Democracy. What are the ways that understanding this 200 years, 240 years of struggle as you do so well, what are the ways in which that understanding can help inform us going forward? What are what are the opportunities we have going forward from this moment today to have Congress more involved, more effectively, not in preventing presidents from from defending the country, but helping presidents to do a better job and still protect our democracy in the process?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "99a88e26-989c-4901-9e01-d4d0fd55ca13"
+    },
+    {
+      "start_time": 1660,
+      "end_time": 1696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I think that, you know, there are, as I mentioned before, certain decades you can look at where this where this worked. You know, the 1920s being a really good example where a block of progressives in the Senate, especially known as the peace progressives, were able to prevent the country from going down another war path. Now, and this is significant because there were efforts by Congress to arrange conventions, to limit the arms races, to outlaw war. These were actual there were bills put forth to outlaw war. There were efforts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "ea62fee7-c56d-45a6-91d7-11ced71a0d0e"
+    },
+    {
+      "start_time": 1696,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kellogg-Briand Pact, for example."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "c4b09236-bc61-4fe3-af7c-81361446fce8"
+    },
+    {
+      "start_time": 1697,
+      "end_time": 1702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kellogg-Briand Pact. There's efforts to prevent major efforts in Congress to prevent war."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "2a0938c7-9648-4b35-8307-ba5913e1f27b"
+    },
+    {
+      "start_time": 1702,
+      "end_time": 1716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, you know, then if you look at the 1930s, you know, even though there's problems, of course, with the Nye Commission, this is a real effort by Congress to prevent the president from sucking the country into war. And it's, you know, somewhat successful until it shouldn't have been."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "4581ebcf-00d1-44a7-bc20-00442078deac"
+    },
+    {
+      "start_time": 1717,
+      "end_time": 1751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So and then, you know, you look at the 1970s and actually starting in the late 1960s. And in fact, that's something I think that it's really important to mention is the Fulbright Vietnam hearings. So holding hearings, the 1970s, you know, the uproar against Vietnam and the War Powers Act didn't just come out of nowhere in the 1970s. It came because of these public sized hearings and because of the Pentagon Papers and because of things like that, where Congress was doing investigations, you know, overseeing the executive branch as it should be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vietnam War"
+        }
+      ],
+      "uuid": "19ca73b6-feb8-43e6-bd41-1027d9e7e47d"
+    },
+    {
+      "start_time": 1751,
+      "end_time": 1790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today, we have things like we have ridiculous investigations, not normal investigations. We have Benghazi investigations, things that are not really rooted in the restraining of executive power. Here we have recently this expose by The Washington Post about these Afghanistan papers about what really had been going on in Afghanistan. Yet there's no effort to have congressional hearings to look into this. What Congress needs to do is they need to hold hearings. They need to use their subpoena power. They need to use the power of contempt when people won't meet the subpoenas. And, you know, have public debates over these things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "e81953c2-3122-4437-996a-69747d94af51"
+    },
+    {
+      "start_time": 1790,
+      "end_time": 1814,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do they do that when you have a president now, and he might not be the last president to do this, who says, âIâm not going to follow. Washington said he wouldnât turn over the negotiation papers with the British. Iâm not going to let people in my office and even when someone like my former National Security Adviser, John Bolton says heâs willing to testify, Iâm going to invoke executive privilege.â What should Congress do?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "231a6656-1744-49bc-a92b-36ede055e782"
+    },
+    {
+      "start_time": 1814,
+      "end_time": 1831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think they have to keep going hard. They have to keep the investigations going. If the president wants to block people from testifying, let him block them, find someone else. It looks bad for the president to block people. Continue to put the president in that position, continue to make it seem that thereâs no transparency. If you continually investigate someone whoâs not giving you anything, it becomes clear that theyâre hiding something."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "e301b58a-92a9-4ba3-94ae-2ba3a19054f9"
+    },
+    {
+      "start_time": 1831,
+      "end_time": 1853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What about the use of the power of the purse? One of the things where we started this conversation and where Iâd like us to come to a conclusion is around the role Congress has clearly in the Constitution as the place that appropriates the money."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "bb785dfe-28d9-4123-a6bc-0ad94462df01"
+    },
+    {
+      "start_time": 1853,
+      "end_time": 1853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "1ae676c8-705d-471a-9d7f-ea351787561e"
+    },
+    {
+      "start_time": 1854,
+      "end_time": 1868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How can Congress more effectively make sure that it has control over money? We have fought wars since 9/11 actually off budget. Where we go to war without actually money even being appropriated by Congress and the president assumes that Congress will then follow on in the program."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "91aa9d73-dfb6-4693-a60b-c86b7731e59a"
+    },
+    {
+      "start_time": 1868,
+      "end_time": 1906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. A lot of this has to do with the authorizations of force from the early 2000s, that the president points to and says, âThis allows us to do this and youâll have to give us the money.â Now, Johnson made a similar argument during the Vietnam War where he said, âYou guys keep giving us the money. If you wanted the war to end, you could just stop giving us the money.â The appropriations issue is difficult because as I said before, you have troops in the field. You have people who need this money. I think that the only thing that Congress can really do is plan ahead with scheduled decreases."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vietnam War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presidency"
+        }
+      ],
+      "uuid": "ea46b93f-aa69-440a-8c00-056fe0f4eb5d"
+    },
+    {
+      "start_time": 1906,
+      "end_time": 1927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The idea that Congress is going to tell the president that youâre going to get this much money for the next yearâs budget for this war and then the next year itâs going to be less. There has to be some agreement of where the trend is going. Otherwise, the president is going to keep doing what he wants and ask Congress to pay for it later and if Congress doesnât pay for it, theyâre the ones who look bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "813fa11a-276a-442a-a7cc-99e273982dbb"
+    },
+    {
+      "start_time": 1927,
+      "end_time": 1933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congress could also pass legislation saying money shall not be used for fighting a war in Iran or something like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "281a4950-e452-4ee1-8f1d-a6805e5791d6"
+    },
+    {
+      "start_time": 1933,
+      "end_time": 1936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely. That is the kind of thing that they should be doing there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "3a032032-1198-43f8-bec9-2c15a3e2e347"
+    },
+    {
+      "start_time": 1936,
+      "end_time": 1947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gotcha. Zachary, for a long time, Americans have not really liked paying attention to Congress. Most Americans donât like Congress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "df90da19-39b1-4489-90c3-9c0ff3ed54b2"
+    },
+    {
+      "start_time": 1947,
+      "end_time": 1948,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very low approval."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "d7ea1f4d-ec3b-4326-9499-8807563000e3"
+    },
+    {
+      "start_time": 1948,
+      "end_time": 1952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very low approval ratings, I think almost lower than dentists in some respect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "fd765959-71c3-413d-8894-6bc4e40d95f2"
+    },
+    {
+      "start_time": 1952,
+      "end_time": 1953,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Trump even."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "4034da3a-88e3-45e7-bd5d-18b51dbe8483"
+    },
+    {
+      "start_time": 1954,
+      "end_time": 1973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lower than the president. Americans tend to vote for their incumbent congressional representatives to go back to office but still say they hate Congress, they donât pay attention. Itâs not sexy to read about Congress than the way it is to read about the executive. Do you think, Zachary, that young people will start to pay more attention to these issues?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "dc1b5352-8d26-4826-b13f-00ad70e4d378"
+    },
+    {
+      "start_time": 1973,
+      "end_time": 1992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I really think that especially in a moment where weâre very dissatisfied with the trend that our politics are taking. I think Americans are paying much closer attention to what goes on in Congress and what goes on in this amazing legislative body."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "7694e8e8-41dd-4b83-b11f-d9021973bfa7"
+    },
+    {
+      "start_time": 1992,
+      "end_time": 2024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think also itâs really important to remember that dissent in Congress and in other forums is really important that we need to have these discussions and have these debates. Even wars thatâ that history looks on favorably, they were very vehement debates. Going back all the way to World War I and Bob La Follette in the Senate, I think itâs really important to remember that these debates, these public forums to discuss our countryâs role abroad are very important. I think thatâs something that younger people and all Americans are paying much closer attention to today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "77aa630a-f231-4925-9bcc-40f22c848dae"
+    },
+    {
+      "start_time": 2024,
+      "end_time": 2048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think thatâs very well said. Certainly, I think weâve been educated in the last 20-30 years on the importance of having debates over the use of war power. I think one of the points Clay made so well is that during the Cold War, there was a premium placed on acting fast and delegating authority because of the concerns that if we acted too slow, we would be the subject of a nuclear attack or some sort of communist expansion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        }
+      ],
+      "uuid": "4a5dde2f-4119-4586-aba3-68d5375089da"
+    },
+    {
+      "start_time": 2048,
+      "end_time": 2079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then after September 11th, concerns about terrorist activity and the need for an executive to act quickly there. I think weâve learned in the last 20-30 years, Democrats and Republicans in our society, that we need more debate around these issues. I think thatâs such a strong and important moment for our democracy because it reminds people that we need branches of government like Congress to be standing up and offering serious debates. Part of what youâre talking about, Clay, seems to me is that these investigations offer a forum for a public discussion of American politics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "4c9bae5b-91a4-441a-8a92-bc42e9a1789f"
+    },
+    {
+      "start_time": 2079,
+      "end_time": 2106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely. You nailed exactly that what we should really have going on right now is public discussions about policies. Policies that are set forth should have hearings, they should have public hearings. They should be all discussed in the open for people to hear. Congress is the peopleâs representatives. Theyâre the closest representatives to the people, so they really are our voices. You mentioned that we keep voting in the incumbents and people who maybe are getting further away from our voices."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "6ee82310-75b7-452e-84d9-1858bd1e2d46"
+    },
+    {
+      "start_time": 2106,
+      "end_time": 2148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the 1970s after Watergate, a new class of legislators were elected, that new young class, and major changes were made in the 1970s. Human rights was incorporated into American foreign policy. Major restraints were put against covert action. Huge secrets came out that the government had been trying to keep from people. So it can happen if people get together and they elect the right people in Congress. If there is a new class ready to go, there could be major changes. Presidents come and go and itâs very difficult to steer the ship, but a new class in Congress can actually have a pretty significant impact in just a few years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "a128adcd-4798-4ecf-b3a9-6b61c505fc55"
+    },
+    {
+      "start_time": 2148,
+      "end_time": 2151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have seen that happen in 2018."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "e51bd60a-098e-4331-be96-facb95750e24"
+    },
+    {
+      "start_time": 2151,
+      "end_time": 2152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        }
+      ],
+      "uuid": "68beb23f-14b1-467f-9a36-7f807f3cd13c"
+    },
+    {
+      "start_time": 2152,
+      "end_time": 2182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The change whether one approves of it or not is quite significant. What weâve seen with the House of Representatives is a completely different approach to efforts at holding the president accountable, whether one agrees with it or not. One can expect that the 2020 election might produce another class of members of Congress like those in the 1970s like the 2018 class that will be very intent on investigating and discussing policies surrounding a variety of American foreign and domestic issues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "d723eb14-962a-4625-be24-1dc77fbd7eb0"
+    },
+    {
+      "start_time": 2182,
+      "end_time": 2210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That more than anything else is why citizens need to pay attention, vote and elect members of Congress who care about these issues, less about whether theyâre from your party or not and more about whether they have the requisite knowledge, integrity, and commitment to address these issues as Clay and Zachary have laid them out so well. I think today weâve learned so much about the role of Congress and how crucial Congress is to questions of war and peace in our society. Clay, thank you so much for sharing your research with us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "6bf9200d-d1c1-475e-8c80-0009bbe266cb"
+    },
+    {
+      "start_time": 2210,
+      "end_time": 2211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, guys."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "7360d322-ed51-4528-9933-f832102bdb6f"
+    },
+    {
+      "start_time": 2211,
+      "end_time": 2214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary, thank you for your as always stunning poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "51e3f359-7edc-4fa2-9af6-cfea4415dd7f"
+    },
+    {
+      "start_time": 2214,
+      "end_time": 2215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Budding Beatnik."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "60bba54b-28a9-46f8-8a2b-c0dfb661bcf8"
+    },
+    {
+      "start_time": 2215,
+      "end_time": 2225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, Zachary, heâs a budding Beatnik in the 21st century. So much fun and thank you all for joining us on This is Democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "8e13d9e3-168d-4db8-90b7-0465d7b698b1"
+    },
+    {
+      "start_time": 2232,
+      "end_time": 2260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts Development Studio and the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Harrison Lemke and you can find his music at harrisonlemke.com. Subscribe and stay tuned for a new episode every Thursday, featuring new perspectives on democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "5b2b6d8c-8acd-4d9a-8cb8-1ae79be7202b"
+    }
+  ],
   "set": "Default",
   "event_id": "22e29c9c-9874-4999-bacd-56f1bf600685",
   "source_id": "2414450c-4e71-4fbf-95e4-0f413c8bfa48"

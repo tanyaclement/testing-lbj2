@@ -1,1 +1,97 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"tanyaclement","avatar_url":"https://avatars.githubusercontent.com/u/1213771?v=4","admin":true}],"project":{"github_org":"tanyaclement","is_private":false,"title":"testing lbj2","description":"testing lbj2","language":"en","slug":"testing-lbj2","creator":"tanyaclement","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"Intro"},{"category":"_uncategorized_","tag":"Jeremi Suri"},{"category":"_uncategorized_","tag":"Clay Katsky"},{"category":"_uncategorized_","tag":"Zachary Suri"},{"category":"_uncategorized_","tag":"Poetry"},{"category":"_uncategorized_","tag":"Cold War"},{"category":"_uncategorized_","tag":"Vietnam War"},{"category":"_uncategorized_","tag":"Presidency"},{"category":"_uncategorized_","tag":"Outro"}]},"created_at":"2026-07-03T18:24:14.820Z","updated_at":"2026-07-03T18:29:47.699Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"2ccf1591-4358-4865-bf92-b75dc500da65":{"content":[],"created_at":"2026-07-03T18:24:14.839Z","created_by":"tanyaclement","title":"testing lbj2","updated_at":"2026-07-03T18:24:14.839Z","updated_by":"tanyaclement","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["2ccf1591-4358-4865-bf92-b75dc500da65"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "tanyaclement",
+    "is_private": false,
+    "title": "testing lbj2",
+    "description": "testing lbj2",
+    "language": "en",
+    "slug": "testing-lbj2",
+    "creator": "tanyaclement",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Clay Katsky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vietnam War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presidency"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        }
+      ]
+    },
+    "created_at": "2026-07-03T18:24:14.820Z",
+    "updated_at": "2026-07-03T18:34:21.671Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "2ccf1591-4358-4865-bf92-b75dc500da65": {
+      "content": [],
+      "created_at": "2026-07-03T18:24:14.839Z",
+      "created_by": "tanyaclement",
+      "title": "testing lbj2",
+      "updated_at": "2026-07-03T18:24:14.839Z",
+      "updated_by": "tanyaclement",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "2ccf1591-4358-4865-bf92-b75dc500da65"
+  ]
+}

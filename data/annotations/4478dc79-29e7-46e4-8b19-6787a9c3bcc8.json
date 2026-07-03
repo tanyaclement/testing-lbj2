@@ -1,5 +1,2006 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Democracy, a podcast that explores the interracial, intergenerational, and intersectional unheard voices living in the world's most influential democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        }
+      ],
+      "uuid": "9ee60eaa-b4db-4a80-a018-8c8f6ec52871"
+    },
+    {
+      "start_time": 16,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music] Welcome to our new episode of This is Democracy. This week we're going to discuss the topic of participatory democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "876da3bb-4da8-4ecc-9f83-4c4a5f826273"
+    },
+    {
+      "start_time": 35,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How have and how can people be more involved in our democracy, not just when it comes to voting, but to day-to-day activities to make our democracy more full, more rich, and more real for people. We're going to focus on a particular moment in our history when a young group of citizens came forward with a statement about the importance of participatory democracy, a statement that inspired hundreds of thousands of people and continues to inspire many people. This is the Port Huron Statement of 1962, written by Students for a Democratic Society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "51722e30-8d0e-40df-9103-1eaca2202c1a"
+    },
+    {
+      "start_time": 71,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we have with us one of the foremost scholars of participatory democracy and Students for a Democratic Society and the Port Huron Statement, Dr. Vanessa Cook. Dr. Cook received her PhD in U.S. history from the University of Wisconsin-Madison in 2015. She wrote a fantastic dissertation that I in part supervised and had the opportunity to learn from."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "fd06a6a1-6be6-48df-a707-cea45568ba08"
+    },
+    {
+      "start_time": 94,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a dissertation that's been published as a really wonderful book that I encourage everyone to read. The book is titled Spiritual Socialists, Religion and the American Left, and it's about those issues and much, much more with some fascinating figures who contributed to our democracy in all kinds of ways. She's written articles in the Washington Post, Dissent Magazine, Religion and Politics, and she's currently the Defense POW MIA Accounting Agency Historian, in residence, at the University of Wisconsin-Madison Missing in Action Project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "6659aa90-0063-4165-b4c2-f0969014e5a8"
+    },
+    {
+      "start_time": 128,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vanessa, thank you for joining us this morning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "74efa71d-95c2-4bf9-88e8-10e30b2120dc"
+    },
+    {
+      "start_time": 130,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, good morning. Thank you for having me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "df8a0f9b-9896-4cc3-b36b-894510aa9fb0"
+    },
+    {
+      "start_time": 132,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before we turn to our discussion of participatory democracy and the Port Huron Statement, we have, of course, Mr. Zachary Suri's scene-setting poem. Zachary, what is the title of your poem this morning?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "2735efd5-5127-4058-922a-9f45d58f0b1f"
+    },
+    {
+      "start_time": 148,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Port Huron Revisited.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "22a135af-9ef9-437f-a08a-f7ee67e53e2d"
+    },
+    {
+      "start_time": 150,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's hear it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "5bab2df5-6975-420a-be40-945e4c1646a6"
+    },
+    {
+      "start_time": 152,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We are people of this generation, housed now in, we are people of this generation, do not forget the oceans of incalculable transgressions and the memory of the maimed millions. We are people of this generation, housed now in absurdity and the phosphorescent orbs of radioactive civility. We are people of this generation, standing by obelisks we're not sure make any sense to us now in a sea of so many sanctimonious automobiles. Mark them as the godly idols of our time. We are people of this generation, housed now in, and the black-white haze of centuries of ambiguous certainty. We are people of this generation, sleep, float, remember. We are people of this generation, housed now in absurdity and the windswept deserts of parking lot dystopias. We are people of this generation, standing now on a bluff overlooking the harbor, observe the Lady of Liberty, wonder what oxidized horror she holds beneath the crown. Thus is the spirit of white giant at the reflecting pool, the names in white crawling along the black marble wall.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "7c9d742f-5882-41ea-ab78-482b1b4113b4"
+    },
+    {
+      "start_time": 219,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love all the imagery there, Zachary, from the parking lots to the Statue of Liberty. What is your poem about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "108901b3-b74c-46f4-b508-d39cefccbe68"
+    },
+    {
+      "start_time": 229,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My poem is really about the sort of dissatisfaction with American society and the current sort of American political discourse that drove so many young people to the radical political movements of the 1960s. And I think what's so startling today is how relevant many of their concerns and their criticisms of American society are to young people like myself today. And...that was really what my poem was about, was connecting those two generations and those two time periods."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "d1686b7f-78da-4098-bd33-67255d7c25e4"
+    },
+    {
+      "start_time": 259,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love the intergenerational element of that, Zachary. Our podcast is designed to be intergenerational."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "39a96905-0a69-4c3f-a5d4-0d841759eaef"
+    },
+    {
+      "start_time": 266,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, and the first line of the Port Huron statement is, we are people of this generation, which is such a poignant and powerful statement in and of itself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "ff001eff-0d46-48a5-bdff-84386e8a9043"
+    },
+    {
+      "start_time": 276,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well said."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "07c5318d-1b84-45d1-b137-8bcd5dfed599"
+    },
+    {
+      "start_time": 278,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vanessa, can you give us some background on this Port Huron statement of 1962? Who wrote it and what was the message that they were trying to promote?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "6bdc0ac3-12cb-403b-95e2-04f5e2b6be86"
+    },
+    {
+      "start_time": 288,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. So in the summer of 1962, students from Students for Democratic Society or SDS met at a retreat in Port Huron, Michigan, hence the name, to really deliberately come up with a statement or an agenda for their generation, as Zachary referred to. It was about 60 students from all over the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "a1a01e0b-0a88-4c7b-be56-ac0be0e10420"
+    },
+    {
+      "start_time": 309,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SDS was a fairly young organization at that time. It was only about two years old, so there were about a dozen chapters on different campuses across the country. And they put out a notice for anyone interested to come and participate in this convention, as they called it, to write this statement, really outlining the problems and concerns that they saw in American society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "5fbceb95-6f31-4c6f-aa63-b67d4ab7bac3"
+    },
+    {
+      "start_time": 334,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also suggestions or possible solutions to those problems. But it was all framed around the question of how can we enhance democracy in the country and how can we expand democracy in the country?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "9d5e80a5-470d-4fdd-8153-19bbbbf3cfe8"
+    },
+    {
+      "start_time": 347,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it became, as many listeners will know, a very influential document throughout the 1960s, distributed widely. And SDS chapters really start to crop up on most campuses across the country in the 60s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "586d7b43-36db-455e-8a28-9ba7ac898db5"
+    },
+    {
+      "start_time": 361,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why at this moment in 1962, Vanessa, what led to this moment producing this document?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "c7fc3190-9955-48d4-b0e1-3e6e093aad90"
+    },
+    {
+      "start_time": 367,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, in 1962, I think there were some valid concerns about the state of democracy and threats to democracy, having just gone through the McCarthy era and the undermining of civil liberties and attacks on civil liberties that became very serious in the 1950s. So many of those students grew up recognizing that threat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "79b0c43f-bc22-4170-8d81-b4be46402e97"
+    },
+    {
+      "start_time": 389,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also concerns about ongoing war. The Cold War was becoming more tense between the Soviet Union and the US. And they talked about that in the document and identified that as a problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "f51bad3a-21aa-4bf1-be19-d0de2091ba91"
+    },
+    {
+      "start_time": 403,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nuclear warfare, the threat of nuclear warfare and annihilation in that way, hung over them. And I think you can see that fear on almost every page of the Port Huron statement. And just a concern that there was a lot of apathy about the way that the government was running things in the United States, about the United States' role in the world, and the lack of democracy extended to groups like African-Americans in the South."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "9081d122-70a4-496f-a305-36e73a79148a"
+    },
+    {
+      "start_time": 430,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It sounds in many ways like an echo or a precursor to a number of issues we contend with today. One being the non-representativeness of the Democratic Party in some ways and other parties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "18dfe976-7834-4bdc-a8b6-30ee5944cd62"
+    },
+    {
+      "start_time": 444,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Members of SDS criticized the Southern Democrats, the so-called Dixiecrats, for resisting civil rights actions and resisting a response to the large numbers of citizens who felt disempowered within the political structure. And then also the concerns about inequality, economic inequality, both of which you mentioned so well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "7b0de6bb-5cad-402f-905a-8a31020fdde8"
+    },
+    {
+      "start_time": 464,
+      "end_time": 474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What were their solutions? What were they proposing in place of what they saw as a stagnant political process that was non-representative and problems of inequality? What were they proposing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "db60e167-7f77-455c-9f87-c51d3bf7cfb0"
+    },
+    {
+      "start_time": 475,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So their sort of catchphrase or what became a concept that they put forward as a fresh take on democratic theory was called participatory democracy, which you mentioned in the opening. And participatory democracy was an open-ended term, and it could mean different things to different people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "cb0278df-5cf6-4fb3-9dd6-fb0e9169a9d7"
+    },
+    {
+      "start_time": 494,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But as I understand it, it was a concept that meant that democracy should not just be about voting in electoral politics. It shouldn't just be going on election day and pulling a lever, filling out a ballot for politicians, even though that was incredibly important and it was being denied to certain people like African-Americans. And the Students for a Democratic Society really wanted to ensure that everyone had the right to vote."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "30047b98-8bc1-4587-adf3-e57d0f6245d7"
+    },
+    {
+      "start_time": 522,
+      "end_time": 536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But beyond that, they wanted to expand democracy, so that really became a way of life for people. And they talked about democracy as a way of life. So it wasn't just electoral politics, but it was participating in the decisions that are going on in your community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "e5f0c091-e919-4be1-ba8d-a4969bac6b08"
+    },
+    {
+      "start_time": 537,
+      "end_time": 571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that meant becoming an engaged citizen, not just apathetic, not just relying on other people to make decisions for you and, you know, assuming that you have no voice or no power. And so they encourage people to get involved in local politics, to go to board meetings, to go to town hall meetings, to lobby their local and state and national politicians with letters or calls, to express their voice and to make those connections between local politics and national politics and to really hold all those politicians accountable to democratic processes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "dfe7f44c-3e24-42a7-bb55-d0f253953dbd"
+    },
+    {
+      "start_time": 572,
+      "end_time": 582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why was this concept of participatory democracy so radical? What made it so new at this time?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "fddd1026-29f0-4108-9913-2c0e59ab7683"
+    },
+    {
+      "start_time": 583,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think because people really in America did conceptualize democracy or thought of it as the right to voice your opinion, but usually that was done through, you know, electoral processes and voting. So this expansion of democracy, I think was a new, a fairly new concept that changed people's thinking about how democracy could become more embedded in people's daily lives."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "17dc8313-16a7-444e-8d80-7153a2d468fe"
+    },
+    {
+      "start_time": 608,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Port Huron statement has been recognized as one of the signposts for a clear demarcation between what was known as the old left, which was framed around more Marxist analyses of economic systems and workplace issues, to a new left. And so the Port Huron statement represents a break or a new chapter in leftist politics and thought in American society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "d905afd3-f983-4011-bd38-1db6c3fa17e2"
+    },
+    {
+      "start_time": 635,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one of the biggest differences is that students for democratic society in the Port Huron statement, they did talk about economic issues and traditional trade issues, shop issues, but they really put it in more cultural and social terms. And so it wasn't just economics or, you know, people's identity as working people or the proletariat that they focused upon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "612a0afb-cb3e-40d3-9969-372687d4d550"
+    },
+    {
+      "start_time": 661,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They really expanded the leftist agenda to recognize issues of social problems, of cultural concerns, of people's identity as, you know, mothers and students and African Americans and women and, you know, all kinds of different identifiers, rather than just as working class people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "64e007a7-db23-4d0c-b5a8-3e3381be236a"
+    },
+    {
+      "start_time": 685,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You raised a really important issue about culture and social relations. One of the criticisms that was thrown at the Port Huron statement, and that's often thrown at leftist politics, as you described them so well, Vaneessa, is the criticism of being socialist. And many would argue then and have argued now that some of these ideas are un-American because they're socialist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "ea095e64-524f-4d65-b5a0-242ba62f9c24"
+    },
+    {
+      "start_time": 710,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you respond to that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "4ca0d45d-73c5-438c-b481-2eb3c99518d5"
+    },
+    {
+      "start_time": 712,
+      "end_time": 734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, socialism does have a rich history in the United States. It's not just a foreign import and it isn't necessarily Marxist in nature, doesn't necessarily call for the overthrow of the government. So these kind of ideas that people have that are associated more with the Soviet Union or other totalitarian societies that have adopted socialism, you know, that's sort of the nightmare scenario that people think of with socialism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "31803cbf-662e-4ae8-b26f-b2689bb6c67a"
+    },
+    {
+      "start_time": 735,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But obviously there are different types. Democratic socialism is alive and well in most of the advanced countries and the United States, and that began in the early to mid-20th century. But socialism in the terms that SDS understood it, they did avoid the term, especially in the Port Huron statement, because it was such a weighted concept and that it had such negative connotations, particularly in the Cold War context when everyone was being accused of communism, if they stood up for anything that seemed radical."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "6f673c7f-84e1-429b-b00a-1b47a232e1bc"
+    },
+    {
+      "start_time": 767,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But socialism really comes down to equality. And I think Students for Democratic Society, they were advocating for a recognition of more equal treatment of everyone in the country. And that ties into democracy because everyone needs to be seen as equal if they're going to have an equal voice in the political process."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "4c4714ae-6378-4377-acab-d96786b48004"
+    },
+    {
+      "start_time": 787,
+      "end_time": 795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And do you think that this argument and the case that was made so eloquently in the Port Huron statement, did it contribute to the civil rights movement?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "2d5b2719-bc22-4c39-a654-c1d895e64616"
+    },
+    {
+      "start_time": 796,
+      "end_time": 824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that went hand in hand. I think the civil rights movement was part of the new left umbrella term or new left umbrella movement, that social movement. And the students for democratic society, mostly white students from the North at first, but they became more aware of what was going on in the South with the Jim Crow laws and threats to voting rights there and denials of voting rights and human rights in the South."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "f2ac3053-aee0-4cb4-a09d-ca396ff71a78"
+    },
+    {
+      "start_time": 825,
+      "end_time": 846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so when they started to see some of this coverage on the news in the late 50s or read about it in newspapers, hear it word of mouth, this was shocking to them that in this country where they grew up and they actually used this language in the opening of the Port Huron statement, we heard that we're a land of liberty and freedom and justice for all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "3eeef2fa-7503-43b5-8e9e-819b2b07d36f"
+    },
+    {
+      "start_time": 847,
+      "end_time": 862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And yet we grew up and we noticed these contradictions, these glaring problems that didn't live up to those values. And so they saw this as an inspirational moment, the civil rights movement making momentum in the South and gaining traction there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Civil Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "a9562fbc-2424-4798-9098-c47ce412fb6b"
+    },
+    {
+      "start_time": 863,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they wanted to be part of that push to enhance democracy in that region and across the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "bcdaee1c-93b0-4b2d-841a-70428c196d46"
+    },
+    {
+      "start_time": 871,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So how did this relate to the anti-war movement of the movement against the Vietnam War in the United States? Was it a precursor or does the Port Huron statement sort of reflect an early anti-war sentiment?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vietnam War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "f60a41c3-2172-4d67-8de1-ac0ed2837c40"
+    },
+    {
+      "start_time": 883,
+      "end_time": 914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's a lot of talk about the military-industrial complex, among other sort of terms about the war machine in the United States. Yeah, I think the Port Huron statement did recognize some troubling trends that even though the Vietnam War wasn't exactly on their radar as much in 1962 as it would be two or three years later even, I think they did see that the United States government was making some decisions that, you know, were concerning to them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vietnam War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "9cddfd7f-6746-44ed-8e89-fc3e77f4f3fc"
+    },
+    {
+      "start_time": 915,
+      "end_time": 927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were troubled by the idea of the military-industrial complex. That's a term that comes up in the Port Huron statement. It's also something that Eisenhower identified as, you know, he warned about that problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "2041c244-c38b-4eb5-a40e-0644b860973e"
+    },
+    {
+      "start_time": 928,
+      "end_time": 956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so I think that there was an inherent anti-war sentiment within the Port Huron statement because the Students for a Democratic Society did not want the US government to perpetuate war for the sake of a strong economy, for example. They realized that in World War II, the war economy had helped a lot to turn around the economic crisis of the Great Depression, the Korean War right after World War II or soon after World War II."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "b8464258-4e3f-4f60-aff7-907da3c724b8"
+    },
+    {
+      "start_time": 957,
+      "end_time": 983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then the Cold War tensions heating up did rationalize the continuation of the military-industrial complex and that tight relationship between the government, big business for, you know, military industry and the military itself. And they saw this as, you know, perhaps a worst, a military state and a endless war type of society that they thought was a threat to democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "e9b08069-7063-4301-8043-723a869d2627"
+    },
+    {
+      "start_time": 984,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vanessa, as you're describing these issues so well with regard to civil rights and anti-war, anti-militarist activities, one can't help but think that these issues haven't gone away. Why do you think that's the case?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "a268e0a4-4e84-4dc9-bffb-814fa5ebb3e2"
+    },
+    {
+      "start_time": 999,
+      "end_time": 1009,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, there has been, there had been some progress with the Voting Rights Act and Civil Rights Act in the 1960s, but since then that has been undermined and chipped away at."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "474f512b-8d3d-486b-acc5-70c8a98c915d"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that there is a fear of enfranchisement for, you know, certain politicians who would rather keep people from voting because they fear the consequences of those votes. I'm not saying that one party is more to blame than the other because there are issues with, say, gerrymandering or corruption in both parties. And so that's something people have to be very vigilant about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "a9467827-6bce-412d-b284-5cce76fccdbb"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it is unfortunate that even though the Port Huron statement is in need of some updating and many things would be different if young people sat down and wrote an agenda for their generation today, it is unfortunate that some of those issues are still with us and it can be relevant for us today too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "5715e43d-6da5-4a44-b078-19570692fab4"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you think that in some ways that we forgotten about these issues, that these issues that were put out so eloquently and in such an influential way in the early 1960s and structured many of the debates of that time, that we've sort of forgotten this history? And if so, what do you think is a good way to bring these issues back into our discussions today and to bring young people back into these discussions around these issues?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "1fa5a4f8-5579-46ae-8134-b62f86ade2b8"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's my fear and concern in recent years and, you know, this is just anecdotal. I don't have the evidence for this, but it seems as a historian, I read much more about Americans talking about the need for democracy, valuing that concept and principle of democracy, even using rhetoric like defending democracy, which Woodrow Wilson deployed during the First World War."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "a2fa15b5-a8cb-4f2f-88f6-b33c0c0092d9"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That I think props up, comes up more in my reading of 20th century history than it has in recent years. I think today the rhetoric is more around defending the American way of life, which of course you can trace back to FDR and the four freedoms. But today, I think people interpreting, okay, defending the American way of life, that could mean a lot of different things to different people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "c1064bce-5e3a-4f8c-8685-e8a90d3904a9"
+    },
+    {
+      "start_time": 1131,
+      "end_time": 1166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It doesn't necessarily mean democracy or include democracy. So I think if we discuss, open up more conversations where democracy is the focus and we reaffirm a commitment to that as Americans and that that's a strong tradition or at least experiment in this country that we need to rededicate ourselves to with programs like this podcast, with, you know, other, not just intellectual or academic forums, but in the general public, I think that we need to reaffirm democracy as a value."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "2ab41c98-8ade-46e2-80ff-1a30e51f67a0"
+    },
+    {
+      "start_time": 1167,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love what you've said there, Vanessa. I mean, it does seem to me that we use the word democracy, but we too often mean legalistic elements of our society and institutional elements, all of which are important. But the, as you put it, the culture and the personal part of democracy, what it is that brings people together to work together, to participate and address common concerns. That seems strangely to be absent from a lot of our discussions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "dee97f27-5b3b-4d73-bb60-36590e2b8b99"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And strangely, it seems that that is actually undermined by social media, which often encourages us to yell at each other, not to actually have these deliberative moments where we participate in conversation, bringing our various points of view together. How practically do you think we can build on the SDS and the Port Huron model today to maybe get past these limitations in our current democratic culture?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "f3448a35-1159-4988-a3d3-1757060ed341"
+    },
+    {
+      "start_time": 1222,
+      "end_time": 1236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, having those conversations is an important and practical, you know, practicing that discourse, opening that dialogue, even with people who disagree with you. I mean, that's practicing democracy. And I think what you said about social media is right on point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "6136c6d8-c80a-447b-8301-ac0f5a835289"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think people always want to be entitled to their opinion, and that's important, but they get kind of lost in their stance or their opinion, or they frame things as, you know, Republican versus Democrat, or, you know, this president versus this president-elect, or conservative versus liberal or leftist. And I think that if the conversation were directed more towards democracy and, hey, can we at least agree that democracy is important, that that might bring people together and find some sort of common ground rather than just, you know, pitting this divide against each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "c73190e1-5713-4a75-874e-51b0552801a5"
+    },
+    {
+      "start_time": 1277,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know democracy as a concept isn't perfect. There have been many scholars and politicians who found it to be a very slippery concept and not something that could always, that American people could always understand or rally behind. But it's my hope that democracy can still carry that weight of deferring opinions and, you know, multiple worldviews."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "797a3e46-0d5f-43ea-8490-600546ed5c77"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And if we reaffirm that, if we use the hope of the Port Huron statement, that we can come together and respect common values and, you know, a common commitment to democracy, that maybe we can heal some of these divides."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "3008d2cd-9240-44ee-8ef6-ab81ce06d04d"
+    },
+    {
+      "start_time": 1316,
+      "end_time": 1333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How can we inspire young people to think about democracy today? It's something that a lot of young people take for granted or quickly become dissatisfied with. How can we, how can we get young people as excited about democracy as those who wrote the Port Huron statement were?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "d0c9f61c-0462-42ec-a8b1-f7645e4957f0"
+    },
+    {
+      "start_time": 1334,
+      "end_time": 1350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is a tough question. I think having a engagement with whatever's going on in your community is a good first step. That can be, like you said, a frustrating experience and it might turn off people pretty quickly. But you need good people in there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "468a3597-98dd-4bbf-965c-26f51cf98a5f"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You need to actually, if you do value these principles and you want to make a difference, you know, you can't just, you know, let it up to fate. You actually have to get in there and to make a difference directly. Taking to the streets as some people have done for Black Lives Matter and those more spontaneous eruptions of democratic pressure, that is important as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "b89234bd-52f8-4996-b881-b2d2213931f4"
+    },
+    {
+      "start_time": 1374,
+      "end_time": 1391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think also reading, you know, people really could be inspired by just reading about activists in the past, including the Students for Democratic Society in many respects, that that might inspire them to get involved in the process, just keeping that hope alive rather than getting bogged down in the negative."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "567690a6-e988-4c2d-a14a-71057b347bc8"
+    },
+    {
+      "start_time": 1392,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And of course they could read your book on many activists who valued and stretched and opened the concept of democracy in our society, that these are your spiritual socialists in many ways and they're as spiritual and as democratic as they are inspired by socialist ideas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "7f3f67b8-a456-4ec3-b45d-dd48056ef15c"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary, I wanted to ask you, do you see this work that Vanessa is describing, this work of opening, discussing democracy, bringing more people in, putting ideology perhaps aside and encouraging participation among different kinds of people, do you see this germinating among young people today and do you see a possibility for more of this among your generation of young people who care so deeply about these issues? Where do you see this going?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "79b66090-9ed4-41e9-a328-9baceeb941cb"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I definitely think that there are a lot of young people, really talented young people thinking about democracy and issues of our democracy today, but I do think there is a sort of lack of a willingness to think creatively and radically about how we can reshape not just policy but our democratic institutions themselves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "ed5ce4b4-4ca0-432d-be11-4b8bf61dec91"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that's kind of because our educational system has sort of failed to educate us about how our democracy has shifted and changed throughout its history and how often we've relied on the work of young people to change it for the better and to protect our democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "25f46f6f-2a88-410b-bb5d-091916cbf049"
+    },
+    {
+      "start_time": 1479,
+      "end_time": 1506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's very well said, Zachary. It's like Vanessa pointed out earlier, we use the word democracy in our education, but we don't really talk about what it means and as Vanessa put it, how one practices democracy. And maybe a focus on that and a focus on bringing young people together to write and think about it, as Vanessa described, is something we should do more of in our communities and in our educational institutions among other places."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "d7d5a58e-abf2-4570-a788-d1dfa1cd5369"
+    },
+    {
+      "start_time": 1507,
+      "end_time": 1510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vanessa, are you hopeful that this work will happen and that it will be done?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "76455307-2327-4d68-a802-25c73841238d"
+    },
+    {
+      "start_time": 1511,
+      "end_time": 1539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am. I think that some of the troubling signs we're seeing today with the electoral process, I'm hoping will open people's eyes to the need to reevaluate this, to reaffirm it, to actually offer more education about it like Zachary said. You know, everyone wants to add something to the curriculum of our high schools or undergrad courses, but my husband had a course, I think in high school, called \"Problems of Democracy.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "81f619cd-3182-4afb-b166-f1fe5bc7724e"
+    },
+    {
+      "start_time": 1540,
+      "end_time": 1563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I thought, wow, how amazing to have a course that really unpacks that and shows the promise of it but also the problems and issues that have happened throughout our history but also continue today. So that would be a step in the right direction for people in high school who many times don't even have civics classes anymore to start to really think about these issues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "2d70cc74-ef9f-4542-bd4c-ca8f4d7d2bc5"
+    },
+    {
+      "start_time": 1564,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's such a perfect title, Vanessa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "1b4805c8-1275-4fed-891f-4b4a6e3fb2d1"
+    },
+    {
+      "start_time": 1568,
+      "end_time": 1591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In many ways, our podcast is designed to be a nationwide course in problems and opportunities of democracy. And one of the really fascinating parts of democracy as a concept is that it encompasses so many different issues and it can encompass so many different people and produce new kinds of ideas, new kinds of solutions to problems."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "086ae4d5-32da-4315-aa0b-5ff855fa5ba8"
+    },
+    {
+      "start_time": 1592,
+      "end_time": 1610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's the ever experimental element of democracy that inspires our podcast. It inspired Franklin Roosevelt, in many ways, the historical mentor for our podcast and it is so well embodied. This notion of historical experimentation among diverse groups, it's so well embodied by your work, Vanessa, and what you shared with us today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "5206ff05-fcd0-4c14-b9e1-0d0abb8fa5eb"
+    },
+    {
+      "start_time": 1611,
+      "end_time": 1635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Looking back on the Port Huron Statement in 1962, as you've done, really provides us a lesson and inspiration, not to rewrite the statement per se but to think about what an agenda for a new generation and what a more expansive democracy would look like in the 21st century. We need that conversation now more than ever. Vanessa, thank you so much for the work you've done to help ground and inspire this conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "08e05aa0-0e1c-4126-8694-f7a42774e124"
+    },
+    {
+      "start_time": 1636,
+      "end_time": 1637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've really shared so much with us today. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "04b3f93e-3f8a-400e-97c9-782c588739ab"
+    },
+    {
+      "start_time": 1638,
+      "end_time": 1644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, for sure. You as well. I'm inspired by young people like Zachary who are taking this seriously. I know we'll do great things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vanessa Cook"
+        }
+      ],
+      "uuid": "8d621374-f1e4-43f7-b1ba-24279d770fd5"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's so true. Zachary and his generation are a new greatest generation in the making. We're fortunate to have them as part of our podcast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "6938814f-23ea-405f-902f-0f299d40f5b2"
+    },
+    {
+      "start_time": 1654,
+      "end_time": 1668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're particularly fortunate to have Zachary's poems every week. Thank you for your Port Huron revisited reflections, Zachary. Most of all, thank you to our audience for working hard to improve and expand our democracy every day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "ac7e73d5-422f-4257-97c9-be42c6af768e"
+    },
+    {
+      "start_time": 1669,
+      "end_time": 1686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for joining us for this episode of This Is Democracy. [Music] This podcast is produced by the Liberal Arts Development Studio and the College of Liberal Arts at the University of Texas at Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "f514422e-1811-48b0-9896-7a032613bb97"
+    },
+    {
+      "start_time": 1687,
+      "end_time": 1707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The music in this episode was written and recorded by Harrison Lemke and you can find his music at harrisonlemke.com. Subscribe and stay tuned for a new episode every Thursday featuring new perspectives on democracy. [Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "50f81b01-72c3-4594-8fc5-3577ea99e557"
+    }
+  ],
   "set": "Default",
   "event_id": "45c666c0-44e0-439b-a81d-b606589d45b0",
   "source_id": "dcf64188-ba07-4418-baf2-b63d5a55c2b7"

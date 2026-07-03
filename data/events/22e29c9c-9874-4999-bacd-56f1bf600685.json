@@ -1,0 +1,65 @@
+{
+  "audiovisual_files": {
+    "2414450c-4e71-4fbf-95e4-0f413c8bfa48": {
+      "label": "Episode 73: Congress and War Powers",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://dn711205.ca.archive.org/0/items/episode-73_202606/Episode%2073.mp3",
+      "duration": 2260
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 73: Congress and War Powers",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jeremi sits down with Clay Katsky to discuss congress and war powers."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "As always, Zachary sets the scene with his poem “An Adaptation of Alan Ginsburg’s ‘A Supermarket in California for a Nation on the Brink of War’.”"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Clay Katsky is a historian of Congress’ role in American foreign policy. He is completing a dissertation on Congress’ efforts to oversee policy and presidential actions after the Vietnam War. Clay is a Ph.D. student in the Department of History at the University of Texas at Austin and a teaching assistant this semester for Professor Suri’s course on US History since the Civil War."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-07-03T18:25:16.551Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2026-07-03T18:25:16.551Z",
+  "updated_by": "tanyaclement"
+}

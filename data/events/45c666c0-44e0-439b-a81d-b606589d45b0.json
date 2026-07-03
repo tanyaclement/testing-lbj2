@@ -1,0 +1,65 @@
+{
+  "audiovisual_files": {
+    "dcf64188-ba07-4418-baf2-b63d5a55c2b7": {
+      "label": "Episode 126: Participatory Democracy from the Sixties to Today",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://dn711205.ca.archive.org/0/items/episode-73_202606/Episode%20126.mp3",
+      "duration": 1697
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 126: Participatory Democracy from the Sixties to Today",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jeremi and Zachary, with guest Dr. Vaneesa Cook, discuss the Port Huron Statement, and the shifting ideals of democracy in America."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Zachary sets the scene with his poem, “Port Huron Revisited.”"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Vaneesa Cook received her PhD in US history from the University of Wisconsin-Madison in 2015. She is the author of Spiritual Socialists: Religion and the American Left. Her articles on the history of social movements and religious thought have appeared in The Washington Post, Dissent magazine, and Religion & Politics, among others. She is currently the Defense POW/MIA Accounting Agency historian in residence for the UW-Madison Missing in Action Project."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-07-03T18:25:16.551Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2026-07-03T18:25:16.551Z",
+  "updated_by": "tanyaclement"
+}
